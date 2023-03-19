@@ -1,0 +1,20 @@
+ ;单行注释:ctrl+/
+;多行注释:alt+shift+A
+;移动行:alt+up/down
+;复制当前行:shift+alt+up/down
+;删除当前行:ctrl+shift+k
+;撤销:ctrl+z
+;代码格式化:ctrl+k+f
+;折叠代码:ctrl+k+0
+;展开代码:ctrl+k+j(完全展开)
+;全局查找文件:ctrl+shift+f
+;查找文件:ctrl+f  
+
+;显示/隐藏左侧目录栏: ctrl+b
+;新建一个窗口:ctrl+shift+n
+;拆分编辑器:ctrl+1/2/3
+;关闭编辑器窗口:ctrl+w
+;关闭所以窗口:ctrl+k+w
+;控制台终端显示/隐藏:ctrl+~
+; 全屏:F11
+; ZEN模式:ctrl+k+z 退出 esc esc  
